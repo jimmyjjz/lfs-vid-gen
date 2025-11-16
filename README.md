@@ -31,7 +31,7 @@ Customizability:
 ```
 pip install tortoise_tts==3.0.0 moviepy==2.1.0 diffuser==0.32.1 pydirectinput==1.0.4 faster_whisper==1.1.0
 ```
-4. (Reccomended) Download the version of pytorch that fits your hardware. Visit https://pytorch.org/get-started/locally/ for details.
+4. (Reccomended) Install the version of pytorch that fits your hardware. Visit https://pytorch.org/get-started/locally/ for details.
 
 In the scenario that you are not able or refuse to then
 ```
