@@ -1,4 +1,4 @@
-# Long-Form Story Generator via AI and Editing Automation
+# Long-Form Story Video Generator via AI and Editing Automation
 ### Introduction
 This project generates long form story videos through an input script. Through editing automation as well as text to speech and text to image one can obtain results like the following:
 
